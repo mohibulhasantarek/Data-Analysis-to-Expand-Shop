@@ -7,10 +7,7 @@ trends in other countries that could help decide where to expand their presence.
 1. The retailer sells high-end fashion apparel to high-net worth individuals and focuses on
 being ethical trader. 
 2. Sustainability is a priority. 
-<br>
 3. Customers would tend to be well-educated and expect to use online tools to aid their 
 purchases.
-<br>
 4. The company would expect the chosen countries to have a sustainable growth in both.
-<br>
 5. population and income with justification for any forecasting methods used.
