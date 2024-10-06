@@ -4,7 +4,6 @@ Strategic Data Forecasting and Visualization for Business Decision Making.
 This repository contains Jupyter notebooks that demonstrate the process of making a business decision regarding retail shop expansion. The decision is based on various key variables.
 You are working as a retail Data Analyst and your company has asked you to model the 
 trends in other countries that could help decide where to expand their presence. 
-<br>
 1. The retailer sells high-end fashion apparel to high-net worth individuals and focuses on
 being ethical trader. 
 <br>
