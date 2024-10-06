@@ -6,7 +6,6 @@ You are working as a retail Data Analyst and your company has asked you to model
 trends in other countries that could help decide where to expand their presence. 
 1. The retailer sells high-end fashion apparel to high-net worth individuals and focuses on
 being ethical trader. 
-<br>
 2. Sustainability is a priority. 
 <br>
 3. Customers would tend to be well-educated and expect to use online tools to aid their 
